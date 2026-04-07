@@ -79,7 +79,7 @@ Cave is in **public beta**. We'd love to hear from you.
 
 ## License
 
-Cave is currently closed source. We plan to open source it soon. See the [LICENSE](LICENSE) file for current terms.
+The source is currently not public. We plan to open source Cave soon. See the [LICENSE](LICENSE) file for current terms.
 
 <br>
 
