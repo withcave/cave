@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cave.sh">
+  <a href="https://withcave.ai">
     <img alt="Cave" src="https://assets.withcave.ai/brand/cave-icon-128.png" width="64" height="64" />
   </a>
 </p>
@@ -21,13 +21,13 @@
 <br>
 
 <p align="center">
-  <a href="https://cave.sh/get-started/what-is-cave"><strong>Documentation</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml"><strong>Report a Bug</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml"><strong>Request a Feature</strong></a>
+  <a href="https://withcave.ai/get-started/what-is-cave"><strong>Documentation</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml"><strong>Report a Bug</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml"><strong>Request a Feature</strong></a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://cave.sh"><img src="https://img.shields.io/badge/cave.sh-000000?style=flat" alt="Website" /></a>&nbsp;
+  <a href="https://withcave.ai"><img src="https://img.shields.io/badge/withcave.ai-000000?style=flat" alt="Website" /></a>&nbsp;
   <a href="https://github.com/withcave/cave/issues"><img src="https://img.shields.io/github/issues/withcave/cave?style=flat&color=000000" alt="Issues" /></a>&nbsp;
   <a href="https://github.com/withcave/cave/releases"><img src="https://img.shields.io/github/v/release/withcave/cave?style=flat&color=000000" alt="Release" /></a>
 </p>
@@ -64,7 +64,7 @@ Cave gives you isolated environments on a server you control, where your agents 
 
 ## Getting Started
 
-Visit the **[documentation](https://cave.sh/get-started/what-is-cave)** for installation instructions and guides.
+Visit the **[documentation](https://withcave.ai/get-started/what-is-cave)** for installation instructions and guides.
 
 <br>
 
@@ -80,7 +80,7 @@ Cave is in **public beta**. We'd love to hear from you.
 
 ## License
 
-Cave is source-available software. See the [license](https://cave.sh/legal/disclaimer) for details.
+Cave is source-available software. See the [license](https://withcave.ai/legal/disclaimer) for details.
 
 <br>
 
