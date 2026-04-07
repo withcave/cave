@@ -1,0 +1,23 @@
+name: Feedback
+description: General feedback, questions, or ideas.
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cave is in public beta and we genuinely value your perspective. Use this form for anything that doesn't fit a bug report or feature request.
+
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Your feedback
+      description: What's on your mind?
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: Cave version (optional)
+      description: Run `cave version` in your terminal if relevant.
+      placeholder: "0.21.0"
