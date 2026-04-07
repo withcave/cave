@@ -28,8 +28,7 @@
 
 <p align="center">
   <a href="https://withcave.ai"><img src="https://img.shields.io/badge/withcave.ai-000000?style=flat" alt="Website" /></a>&nbsp;
-  <a href="https://github.com/withcave/cave/issues"><img src="https://img.shields.io/github/issues/withcave/cave?style=flat&color=000000" alt="Issues" /></a>&nbsp;
-  <a href="https://github.com/withcave/cave/releases"><img src="https://img.shields.io/github/v/release/withcave/cave?style=flat&color=000000" alt="Release" /></a>
+  <a href="https://github.com/withcave/cave/issues"><img src="https://img.shields.io/github/issues/withcave/cave?style=flat&color=000000" alt="Issues" /></a>
 </p>
 
 <br>
