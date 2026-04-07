@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://withcave.ai">
-    <img alt="Cave" src="https://assets.withcave.ai/brand/app-icon.png" width="64" height="64" />
+    <img alt="Cave" src="https://assets.withcave.ai/brand/app-icon.png" width="96" height="96" />
   </a>
 </p>
 
