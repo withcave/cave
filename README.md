@@ -81,10 +81,3 @@ Cave is in **public beta**. We'd love to hear from you.
 
 The source is currently not public. We plan to open source Cave soon. See the [LICENSE](LICENSE) file for current terms.
 
-<br>
-
----
-
-<p align="center">
-  Built by <a href="https://github.com/akoenig">Andre Koenig</a>
-</p>
