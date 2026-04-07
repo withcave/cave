@@ -43,30 +43,6 @@
 
 <br>
 
-## What is Cave?
-
-Point Cave at a repository. It provisions an environment, clones the code, and hands you a coding agent &mdash; ready to build. No fighting your tools. No trusting someone else's cloud.
-
-Cave gives you isolated environments on a server you control, where your agents keep running whether your laptop is open or not.
-
-<br>
-
-## Highlights
-
-**Run agents in isolation** &mdash; Every cave is a sandboxed Linux container with its own filesystem, network rules, and resource limits. Agents can't interfere with each other or your host.
-
-**Your infrastructure, your rules** &mdash; Self-hosted on hardware you own. No data leaves your network unless you allow it. Network access is restricted to hosts you explicitly whitelist.
-
-**Access from anywhere** &mdash; Open a cave from your browser, terminal, VS Code, or Zed. Tailscale gives you secure access from any device on your tailnet.
-
-**Run agents side by side** &mdash; Work on multiple repositories simultaneously. Split your screen. Let agents run in parallel while you review results.
-
-**Persistent environments** &mdash; Caves survive reboots and reconnects. Your agent's work is never lost. Pick up exactly where you left off.
-
-**Checkpoints and auto-builds** &mdash; Snapshot your cave at any point. Roll back when experiments go sideways. Automatic builds keep you informed of project health.
-
-<br>
-
 ## Getting Started
 
 Visit the **[documentation](https://withcave.ai/docs/get-started/what-is-cave)** for installation instructions and guides.
