@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        We appreciate feature suggestions. Please describe what you'd like and why it matters for your workflow.
+        I appreciate feature suggestions. Please describe what you'd like and why it matters for your workflow.
 
   - type: textarea
     id: problem

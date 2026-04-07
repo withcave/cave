@@ -69,7 +69,7 @@ Visit the **[documentation](https://withcave.ai/docs/get-started/what-is-cave)**
 
 ## Feedback
 
-Cave is in **public beta**. We'd love to hear from you.
+Cave is in **public beta**. I'd love to hear from you.
 
 - **Found a bug?** &mdash; [Open a bug report](https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml)
 - **Have an idea?** &mdash; [Request a feature](https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml)
@@ -79,5 +79,5 @@ Cave is in **public beta**. We'd love to hear from you.
 
 ## License
 
-The source is currently not public. We plan to open source Cave soon. See the [LICENSE](LICENSE) file for current terms.
+The source is currently not public. I plan to open source Cave soon. See the [LICENSE](LICENSE) file for current terms.
 

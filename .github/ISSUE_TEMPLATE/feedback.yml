@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Cave is in public beta and we genuinely value your perspective. Use this form for anything that doesn't fit a bug report or feature request.
+        Cave is in public beta and I genuinely value your perspective. Use this form for anything that doesn't fit a bug report or feature request.
 
   - type: textarea
     id: feedback
