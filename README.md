@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <a href="https://withcave.ai/get-started/what-is-cave"><strong>Documentation</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml"><strong>Report a Bug</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml"><strong>Request a Feature</strong></a>
+  <a href="https://withcave.ai/docs/get-started/what-is-cave"><strong>Documentation</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml"><strong>Report a Bug</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml"><strong>Request a Feature</strong></a>
 </p>
 
 <br>
@@ -64,7 +64,7 @@ Cave gives you isolated environments on a server you control, where your agents 
 
 ## Getting Started
 
-Visit the **[documentation](https://withcave.ai/get-started/what-is-cave)** for installation instructions and guides.
+Visit the **[documentation](https://withcave.ai/docs/get-started/what-is-cave)** for installation instructions and guides.
 
 <br>
 
@@ -80,7 +80,7 @@ Cave is in **public beta**. We'd love to hear from you.
 
 ## License
 
-Cave is source-available software. See the [license](https://withcave.ai/legal/disclaimer) for details.
+Cave is source-available software. See the [license](https://withcave.ai/docs/legal/privacy-and-disclaimer) for details.
 
 <br>
 

@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Documentation
-    url: https://withcave.ai/get-started/what-is-cave
+    url: https://withcave.ai/docs/get-started/what-is-cave
     about: Read the docs before opening an issue.
