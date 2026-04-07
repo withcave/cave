@@ -33,4 +33,4 @@ body:
     id: context
     attributes:
       label: Additional context
-      description: Anything else — screenshots, mockups, links to related issues or discussions.
+      description: Anything else - screenshots, mockups, links to related issues or discussions.

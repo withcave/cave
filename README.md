@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  Your agents run on your infrastructure &mdash; isolated, persistent, fully under your control.<br>
+  Your agents run on your infrastructure. Isolated, persistent, fully under your control.<br>
   From any device, any place, any time.
 </p>
 
@@ -53,9 +53,9 @@ Visit the **[documentation](https://withcave.ai/docs/get-started/what-is-cave)**
 
 Cave is in **public beta**. I'd love to hear from you.
 
-- **Found a bug?** &mdash; [Open a bug report](https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml)
-- **Have an idea?** &mdash; [Request a feature](https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml)
-- **General feedback?** &mdash; [Start a discussion](https://github.com/withcave/cave/issues/new?labels=feedback&template=feedback.yml)
+- **Found a bug?** [Open a bug report](https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml)
+- **Have an idea?** [Request a feature](https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml)
+- **General feedback?** [Start a discussion](https://github.com/withcave/cave/issues/new?labels=feedback&template=feedback.yml)
 
 <br>
 

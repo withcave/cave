@@ -70,4 +70,4 @@ body:
     id: context
     attributes:
       label: Additional context
-      description: Anything else that might help — screenshots, environment details, workarounds you've tried.
+      description: Anything else that might help - screenshots, environment details, workarounds you've tried.
