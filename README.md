@@ -79,7 +79,7 @@ Cave is in **public beta**. We'd love to hear from you.
 
 ## License
 
-Cave is proprietary software. See the [LICENSE](LICENSE) file for details.
+Cave is currently closed source. We plan to open source it soon. See the [LICENSE](LICENSE) file for current terms.
 
 <br>
 
