@@ -21,6 +21,12 @@
 <br>
 
 <p align="center">
+  <img alt="Cave Screenshot" src="https://assets.withcave.ai/brand/screenshot.png" width="800" />
+</p>
+
+<br>
+
+<p align="center">
   <a href="https://withcave.ai/docs/get-started/what-is-cave"><strong>Documentation</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=bug&template=bug_report.yml"><strong>Report a Bug</strong></a>&nbsp;&nbsp;&middot;&nbsp;&nbsp;<a href="https://github.com/withcave/cave/issues/new?labels=enhancement&template=feature_request.yml"><strong>Request a Feature</strong></a>
 </p>
 
