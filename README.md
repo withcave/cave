@@ -79,7 +79,7 @@ Cave is in **public beta**. We'd love to hear from you.
 
 ## License
 
-Cave is source-available software. See the [license](https://withcave.ai/docs/legal/privacy-and-disclaimer) for details.
+Cave is proprietary software. See the [LICENSE](LICENSE) file for details.
 
 <br>
 
